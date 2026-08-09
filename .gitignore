@@ -220,3 +220,7 @@ __marimo__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+
+# .DS_Store files
+.DS_Store
+**/.DS_Store
